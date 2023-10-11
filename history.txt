@@ -1,0 +1,299 @@
+    2  git
+    6  git --version
+   14  git config --global user.name Edik
+   15  git config --global user.email edik@ukr.net
+   16  git confid -l
+   17  git config -l
+   18  git init
+   19  git status
+   20  git status
+   21  git init
+   22  git status
+   23  git status
+   24  git add .
+   25  git status
+   26  git commit -m "folder repository"
+   27  git status
+   28  git log
+   29  git add work1/task1.py
+   30  git status
+   31  git commit -m "file replacement"
+   32  git status
+   33  git log
+   35  git rm task3.py
+   36  git rm work2/task3.py
+   37  git status
+   38  git clin -f -d
+   39  git --
+   40  git clin
+   41  git clean 
+   42  git clean -f -d
+   44  git cdwork3
+   45  git cd cdwork3
+   46  git cd work3
+   47  git add work3
+   48  git status
+   49  git cd work3
+   54  git add .
+   55  git status
+   56  git commend -m "created files in a new folder"
+   57  git command -m "created files in a new folder"
+   58  git commit -m "created files in a new folder"
+   59  git status
+   60  git log
+   61  git restore
+   62  git restore task2.py
+   63  git restore
+   64  git restore task1.py
+   65  git add *
+   66  git restore
+   67  git restore work1/task1.py
+   68  git status
+   69  git restore work1/task1.py
+   70  git status
+   71  git restore
+   72  git restore work2/task2.py
+   73  git restore
+   74  git restore
+   75  git status
+   76  git status
+   78  git log
+   79  git status
+   82  git restore /Users/User/PycharmProjects/Home_work45/task1.py
+   83  git restore 200~5e19476~
+   84  git restore 5e194764f5ecf4722a329199babd667101ab5d23
+   85  git status
+   86  git add work2/task2.py
+   87  git status
+   88  git commit -m "my bad"
+   89  git log
+   90  git status
+   92  git status
+   94  git status
+   97  git status --help
+   98  git config --global user.email popuas445@icloud.com
+  100  git log
+  101  git config -l
+  102  git status
+  103  git restore work1/task1.py
+  104  git status
+  105  git status
+  106  git add work2/task2.py
+  108  git add work2/task2.py
+  109  git status
+  110  git restore --staged work2/task2.py
+  111  git status
+  113  git status
+  114  git add work3/module3.py
+  115  git commit -m "added index changes work3/module3"
+  116  git log
+  117  git log -oneline
+  118  git log --oneline
+  119  git revert 3d1f72f
+  120  git log
+  121  git status
+  122  git branch
+  123  git checkout main
+  124  git status
+  125  git log
+  126  git oneline
+  127  git status
+  128  git add .
+  129  git status
+  130  git commit -m "add newfile"
+  131  git status
+  133  git status
+  134  git commit -am "edit newfile"
+  135  git status
+  136  git status
+  137  git add .
+  138  git add .
+  139  git status
+  140  git restore --staged newfile.txt
+  141  git status
+  142  git restore newfile.txt
+  143  git status
+  145  git -oneline 
+  146  git log
+  147  git checkout e50a58e
+  148  git checkout main
+  149  git log
+  150  git reset e50a58
+  151  git status
+  152  git log
+  153  git reset 3bebb
+  154  git log
+  155  git reset --hard 6a55
+  156  git log
+  157  git reset --hard 3bebb
+  158  git status
+  159  git status
+  160  git status
+  161  git add .
+  162  git add .
+  163  git add .
+  164  git status
+  165  git reset --newfile
+  166  git reset --newfile.txt
+  167  git add .
+  168  git status
+  169  git add .
+  170  git status
+  171  git reset --hard newfile.txt
+  172  git reset --Hard newfile.txt
+  173  git reset --HARD newfile.txt
+  174  git reset --hard HEAD
+  175  git reset --hard HEAD
+  178  git status
+  179  git status
+  180  git add.
+  181  git add .
+  182  git reset --hard HEAD~
+  183  git status
+  184  git add .
+  185  git commit -am "edit 2 new fille"
+  186  git log
+  188  git status
+  189  git add .
+  190  git commit -amend "edit 3 new fille"
+  191  git commit --amend "edit 3 new fille"
+  192  git commit --amend -m "edit 3 new fille"
+  193  git status
+  194  git log
+  195  git log
+  196  git revert
+  197  git revert HEAD~1
+  198  git revert --abort
+  199  git status
+  200  git log
+  201  git revert HEAD~3
+  202  git status
+  203  git log
+  204  git revert 8a133b
+  205  git log
+  206  git revert --hard f8cb47
+  207  git revert -hard f8cb47
+  208  git revert --hard f8cb47
+  209  git revert --hard f8cb47
+  210  git status
+  211  git log
+  212  git remote add origin https://github.com/Edison445/myfile.git
+  213  git remoute -v
+  214  git remote -v
+  215  git git push -u origin main
+  216  git push -u origin main
+  217  git status
+  218  git pull
+  219  git status
+  220  git add .
+  221  git commit -m "add src"
+  222  git status
+  223  git pull
+  224  git push 
+  225  git pull
+  226  git status
+  227  git pull
+  228  git status
+  229  git clone https://github.com/Edison445/myfile.git
+  230  git status
+  231  git log
+  232  git remot -v
+  233  git remote -v
+  234  git branch feature
+  235  git checkout feature
+  237  git status
+  238  git add .
+  239  git commit -m "new init breach" 
+  240  git push
+  241  git push origin feature
+  243  git status
+  244  git chechout main
+  245  git checkhout main
+  246  git checkout main
+  247  git merge feature
+  248  git status
+  249  git log
+  250  git pull
+  251  git push
+  252  git status
+  253  git init
+  254  git status
+  255  git add .
+  256  git status
+  257  git commit -m "add work1, work2"
+  258  git status
+  259  git log
+  260  git status
+  261  touch .gitignor
+  262  git status
+  263  git status
+  264  git add .
+  265  git status
+  266  git rm --cached -r idea
+  267  git status
+  268  git rm --cached -r .idea/
+  269  git status
+  270  git status
+  271  gid add .gitignore
+  272  git status
+  273  git restore .gitignor
+  274  git status
+  275  git add .gitignore
+  276  git status
+  277  git rm --cached .gitignor
+  278  git status
+  279  git rm .gitignor
+  280  git status
+  281  rm .gitignor
+  282  git status
+  283  git commit -m "modified file task1.py"
+  284  git status
+  285  git log
+  286  git status
+  287  git log
+  288  git restore work1/task1.py
+  289  git status
+  290  git log
+  291  git status
+  292  git add .
+  293  git status
+  294  git restore --staged work2/module1.py
+  295  git status
+  296  git status
+  297  git add .
+  298  git status
+  299  git commit -m "new folder work3"
+  300  git status
+  301  git log
+  302  git revert dd7bb
+  303  git status
+  304  git log
+  305  git reset --head 7f7ea
+  306  git reset --hard 7f7ea
+  307  git status
+  308  git log
+  309  git status
+  310  git log
+  311  git add .
+  312  git commit -m "add file task1.py"
+  313  git status
+  314  git log
+  315  git reset --hard 7f7ea
+  316  git status
+  317  git log
+  318  git status
+  319  git commit -m "add file module.py"
+  320  git log
+  321  git add .
+  322  git comit -m "add file module.py"
+  323  git status
+  324  git commit -m "add file module.py"
+  325  git status
+  326  git comit
+  327  git log
+  328  git commit --amend 
+  329  git status
+  330  git log
+  331  git commit --amend 
+  332  history|grep'git' >history.txt
+  333  history | grep 'git' > history.txt
